@@ -39,6 +39,9 @@ You are allowed to reduce saturation of an image  : <br><br>
 Adding saturation is now possible using this Photo Editor : <br><br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/react-photo-editor/master/demo/3b.saturation-up.png" width="90%"></img>
 
+hamburger-menu-overlay
+
+Hamburger Menu Overlay is a website in which menu on the left of the page has an animation like a Hamburger. (Obviously not a website that contains a menu lis
 ### Grayscale
 Before adding grayscale effect :
 <img src="https://raw.githubusercontent.com/kevinadhiguna/react-photo-editor/master/demo/4.grayscale.png" width="90%"></img> <br><br>
@@ -77,3 +80,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
+
+[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/react-photo-editor)](https://github.com/kevinadhiguna)
