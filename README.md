@@ -81,4 +81,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
+## Reference
+
+- [How To Build A Photo Editor With React And CSS Filters - Web Dev Simplified](https://youtu.be/J243ncoInNE)
+
 [![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/react-photo-editor)](https://github.com/kevinadhiguna)
